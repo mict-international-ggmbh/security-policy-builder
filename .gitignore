@@ -5,6 +5,5 @@ node_modules/
 work/
 package-lock.json
 data/
-docs/
 *.bak
 /publish-j1dev.sh
