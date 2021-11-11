@@ -41,7 +41,7 @@
   "securityAwarenessTrainingProvider": "",
   "IdP": "",
   "CPA": "",
-  "needStandardHIPAA": true,
+  "needStandardHIPAA": false,
   "needStandardHITRUST": false,
   "needStandardGDPR": false,
   "needStandardNIST": false,
